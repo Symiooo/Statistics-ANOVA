@@ -1,4 +1,4 @@
-# Statistics-ANOVA
+# Time-Series-Analysis
 
 ### How To
 
