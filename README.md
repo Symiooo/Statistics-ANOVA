@@ -5,7 +5,7 @@
 
 
 ### Recommended Textbooks
-- [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - free for usage
+- [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - free of use
 
 
 
