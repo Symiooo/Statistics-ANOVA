@@ -1,9 +1,5 @@
 # Time-Series-Analysis
 
-### How To
-
-
-
 ### Recommended Textbooks
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/) - free of use
 
